@@ -1,10 +1,9 @@
 {
-  "ms-demo-golang" : {
-    "url"  : "https://github.com/inadarei/justgo-microservice",
-    "branch" : "master"
+  "ms-flights" : {
+    "url"  : "https://github.com/implementing-microservices/ms-flights"
   },
 
-  "ms-demo-node" : {
-    "url" : "https://github.com/inadarei/microservices-workspace-ms-demo-node.git"
+  "ms-reservations" : {
+    "url" : "https://github.com/implementing-microservices/ms-reservations"
   }
 }

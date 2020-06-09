@@ -1,4 +1,4 @@
-project:=ms-workspace-demo
+project:=msupandrunning
 
 ifeq ($(OS),Windows_NT)
 	CHECKOUT_BIN:=bin/checkout.exe
